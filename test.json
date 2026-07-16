@@ -1,0 +1,659 @@
+{
+  "version": 9,
+  "coordinateSystem": "cad",
+  "angleDirection": "ccw",
+  "unit": "mm",
+  "displayUnit": "mm",
+  "annotationScale": {
+    "numerator": 1,
+    "denominator": 1
+  },
+  "dimensionStyle": {
+    "textHeightMm": 2.5,
+    "textGapMm": 1.5,
+    "tickSizeMm": 3.6,
+    "lineOffsetMm": 4.5,
+    "lineWidthMm": 0.25,
+    "slashWidthMm": 0.35
+  },
+  "layers": [
+    {
+      "id": "0",
+      "name": "0",
+      "visible": true,
+      "locked": false,
+      "color": "#FFFFFF",
+      "dimensionColor": "#e2e8f0",
+      "lineType": "continuous",
+      "lineWeight": 0.25,
+      "entities": [
+        {
+          "id": "shape-1",
+          "type": "dimension",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "DIMENSION",
+            "sourceHandle": "700001",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "style": {
+            "color": "#e2e8f0"
+          },
+          "kind": "linear",
+          "sourceEntityId": null,
+          "sourceDimensionId": null,
+          "start": {
+            "x": -772,
+            "y": -800
+          },
+          "end": {
+            "x": -746,
+            "y": -800
+          },
+          "offset": -22.423158479887547,
+          "rotation": 0,
+          "styleVariant": "slash",
+          "prefix": "",
+          "suffix": "",
+          "textOverride": null,
+          "placement": {
+            "textOffset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "id": "shape-2",
+          "type": "dimension",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "DIMENSION",
+            "sourceHandle": "700002",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "style": {
+            "color": "#e2e8f0"
+          },
+          "kind": "linear",
+          "sourceEntityId": null,
+          "sourceDimensionId": null,
+          "start": {
+            "x": -780,
+            "y": -800
+          },
+          "end": {
+            "x": -738,
+            "y": -800
+          },
+          "offset": -37.99414497665555,
+          "rotation": 0,
+          "styleVariant": "slash",
+          "prefix": "",
+          "suffix": "",
+          "textOverride": null,
+          "placement": {
+            "textOffset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "id": "shape-3",
+          "type": "dimension",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "DIMENSION",
+            "sourceHandle": "700003",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "style": {
+            "color": "#e2e8f0"
+          },
+          "kind": "linear",
+          "sourceEntityId": null,
+          "sourceDimensionId": null,
+          "start": {
+            "x": -734.5,
+            "y": -800
+          },
+          "end": {
+            "x": -734.5,
+            "y": -815
+          },
+          "offset": 3.122199453051053,
+          "rotation": -1.5707963267948966,
+          "styleVariant": "slash",
+          "prefix": "",
+          "suffix": "",
+          "textOverride": null,
+          "placement": {
+            "textOffset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "id": "shape-4",
+          "type": "dimension",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "DIMENSION",
+            "sourceHandle": "700004",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "style": {
+            "color": "#e2e8f0"
+          },
+          "kind": "linear",
+          "sourceEntityId": null,
+          "sourceDimensionId": null,
+          "start": {
+            "x": -760,
+            "y": -770
+          },
+          "end": {
+            "x": -760,
+            "y": -815
+          },
+          "offset": 0,
+          "rotation": -1.5707963267948966,
+          "styleVariant": "slash",
+          "prefix": "",
+          "suffix": "",
+          "textOverride": null,
+          "placement": {
+            "textOffset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "id": "shape-5",
+          "type": "dimension",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "DIMENSION",
+            "sourceHandle": "700005",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "style": {
+            "color": "#e2e8f0"
+          },
+          "kind": "radial",
+          "sourceEntityId": null,
+          "sourceDimensionId": null,
+          "targetEntityId": null,
+          "center": {
+            "x": -760,
+            "y": -761
+          },
+          "radius": 5,
+          "angle": 0,
+          "labelDistance": 0,
+          "styleVariant": "slash",
+          "prefix": "R",
+          "suffix": "",
+          "textOverride": null,
+          "placement": {
+            "textOffset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "id": "shape-6",
+          "type": "dimension",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "DIMENSION",
+            "sourceHandle": "700006",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "style": {
+            "color": "#e2e8f0"
+          },
+          "kind": "radial",
+          "sourceEntityId": null,
+          "sourceDimensionId": null,
+          "targetEntityId": null,
+          "center": {
+            "x": -772,
+            "y": -800
+          },
+          "radius": 3.5,
+          "angle": 0,
+          "labelDistance": 0,
+          "styleVariant": "slash",
+          "prefix": "R",
+          "suffix": "",
+          "textOverride": null,
+          "placement": {
+            "textOffset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "id": "shape-11",
+          "type": "lwpolyline",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "LWPOLYLINE",
+            "sourceHandle": "54",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "style": {
+            "lineWeight": "byBlock"
+          },
+          "points": [
+            {
+              "x": -850,
+              "y": -815
+            },
+            {
+              "x": -670,
+              "y": -815
+            },
+            {
+              "x": -670,
+              "y": -720
+            },
+            {
+              "x": -850,
+              "y": -720
+            },
+            {
+              "x": -850,
+              "y": -815
+            }
+          ],
+          "closed": true
+        },
+        {
+          "id": "shape-12",
+          "type": "arc",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "ARC",
+            "sourceHandle": "55",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -90,
+            "y": 90
+          },
+          "radius": 3.5,
+          "startAngle": 0,
+          "endAngle": 2.9996967561106564
+        },
+        {
+          "id": "shape-13",
+          "type": "arc",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "ARC",
+            "sourceHandle": "56",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -780,
+            "y": -800
+          },
+          "radius": 3.5,
+          "startAngle": 1.5707963267948966,
+          "endAngle": -1.5707963267948966
+        },
+        {
+          "id": "shape-14",
+          "type": "arc",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "ARC",
+            "sourceHandle": "57",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -772,
+            "y": -800
+          },
+          "radius": 3.5,
+          "startAngle": -1.5707963267948966,
+          "endAngle": 1.5707963267948966
+        },
+        {
+          "id": "shape-15",
+          "type": "line",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "LINE",
+            "sourceHandle": "58",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "start": {
+            "x": -780,
+            "y": -803.5
+          },
+          "end": {
+            "x": -772,
+            "y": -803.5
+          }
+        },
+        {
+          "id": "shape-16",
+          "type": "line",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "LINE",
+            "sourceHandle": "59",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "start": {
+            "x": -780,
+            "y": -796.5
+          },
+          "end": {
+            "x": -772,
+            "y": -796.5
+          }
+        },
+        {
+          "id": "shape-17",
+          "type": "arc",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "ARC",
+            "sourceHandle": "5A",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -746,
+            "y": -800
+          },
+          "radius": 3.5,
+          "startAngle": 1.5707963267948966,
+          "endAngle": -1.5707963267948966
+        },
+        {
+          "id": "shape-18",
+          "type": "arc",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "ARC",
+            "sourceHandle": "5B",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -738,
+            "y": -800
+          },
+          "radius": 3.5,
+          "startAngle": -1.5707963267948966,
+          "endAngle": 1.5707963267948966
+        },
+        {
+          "id": "shape-19",
+          "type": "line",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "LINE",
+            "sourceHandle": "5C",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "start": {
+            "x": -746,
+            "y": -803.5
+          },
+          "end": {
+            "x": -738,
+            "y": -803.5
+          }
+        },
+        {
+          "id": "shape-20",
+          "type": "line",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "LINE",
+            "sourceHandle": "5D",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "start": {
+            "x": -746,
+            "y": -796.5
+          },
+          "end": {
+            "x": -738,
+            "y": -796.5
+          }
+        },
+        {
+          "id": "shape-21",
+          "type": "arc",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "ARC",
+            "sourceHandle": "5E",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -760,
+            "y": -765
+          },
+          "radius": 5,
+          "startAngle": 3.141592653589793,
+          "endAngle": 0
+        },
+        {
+          "id": "shape-22",
+          "type": "line",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "LINE",
+            "sourceHandle": "5F",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "start": {
+            "x": -765,
+            "y": -765
+          },
+          "end": {
+            "x": -765,
+            "y": -761
+          }
+        },
+        {
+          "id": "shape-23",
+          "type": "line",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "LINE",
+            "sourceHandle": "60",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "start": {
+            "x": -755,
+            "y": -765
+          },
+          "end": {
+            "x": -755,
+            "y": -761
+          }
+        },
+        {
+          "id": "shape-24",
+          "type": "arc",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "ARC",
+            "sourceHandle": "61",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -760,
+            "y": -761
+          },
+          "radius": 5,
+          "startAngle": 0,
+          "endAngle": 3.141592653589793
+        },
+        {
+          "id": "shape-25",
+          "type": "circle",
+          "source": {
+            "origin": "imported",
+            "sourceEntityType": "CIRCLE",
+            "sourceHandle": "62",
+            "sourceLayerName": "0",
+            "sourceBlockName": null,
+            "sourceFile": "web-cad-20260716.dxf"
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -800,
+            "y": -790
+          },
+          "radius": 5
+        },
+        {
+          "id": "circle-42",
+          "type": "circle",
+          "source": {
+            "origin": "native",
+            "sourceEntityType": null,
+            "sourceHandle": null,
+            "sourceLayerName": null,
+            "sourceBlockName": null,
+            "sourceFile": null
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -790,
+            "y": -731
+          },
+          "radius": 3.5
+        },
+        {
+          "id": "circle-43",
+          "type": "circle",
+          "source": {
+            "origin": "native",
+            "sourceEntityType": null,
+            "sourceHandle": null,
+            "sourceLayerName": null,
+            "sourceBlockName": null,
+            "sourceFile": null
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -835,
+            "y": -731
+          },
+          "radius": 3.5
+        },
+        {
+          "id": "circle-44",
+          "type": "circle",
+          "source": {
+            "origin": "native",
+            "sourceEntityType": null,
+            "sourceHandle": null,
+            "sourceLayerName": null,
+            "sourceBlockName": null,
+            "sourceFile": null
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -730,
+            "y": -731
+          },
+          "radius": 3.5
+        },
+        {
+          "id": "circle-45",
+          "type": "circle",
+          "source": {
+            "origin": "native",
+            "sourceEntityType": null,
+            "sourceHandle": null,
+            "sourceLayerName": null,
+            "sourceBlockName": null,
+            "sourceFile": null
+          },
+          "showDefaultDimensions": false,
+          "center": {
+            "x": -685,
+            "y": -731
+          },
+          "radius": 3.5
+        }
+      ]
+    }
+  ],
+  "blocks": []
+}
